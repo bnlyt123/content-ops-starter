@@ -243,7 +243,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: BNLYT
-      url: ''
+      url: https://youtu.be/9h-YgL5YLLI?si=5Ol0jQ9VmvqhhvLJ
       controls: false
       aspectRatio: '16:9'
       styles:
